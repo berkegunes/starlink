@@ -1,3 +1,5 @@
+https://starlinkcloneproject.netlify.app/
+
 <!-- Starlink - Internet Service Platform -->
 
 This project is a modern, interactive clone of Starlink’s website, built using HTML and CSS. It replicates the original design, emphasizing high-speed internet services, user-friendly navigation, and engaging visuals.
